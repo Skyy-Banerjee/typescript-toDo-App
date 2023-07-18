@@ -1,3 +1,3 @@
-To have a go, check this out-
+To have a go, check this out. Cheers! :)
 
-# https://app.netlify.com/sites/vanillla-typescript-todo-app/configuration/domain
+# https://vanillla-typescript-todo-app.netlify.app/
